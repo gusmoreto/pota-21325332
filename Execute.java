@@ -1,3 +1,10 @@
+//Augusto Moreto Barros - 21325332 
+//Gabriel Stavik - 21339181
+//Stephany de Paula Frageri - 21338745
+//Ian Heski Maia - 21141409 
+//Isabella Fagundes Barão - 21268610
+
+
 import java.text.Normalizer;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
